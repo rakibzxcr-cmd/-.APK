@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">System Lock</string>
+    <string name="lock_message">This device has been locked due to suspicious activity.</string>
+    <string name="enter_password">Enter Admin Password</string>
+</resources>
